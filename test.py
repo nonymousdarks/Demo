@@ -1,3 +1,3 @@
-import requerts
+import requests
 
 print("hello world!")
